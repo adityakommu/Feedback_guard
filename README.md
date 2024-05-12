@@ -1,4 +1,4 @@
-# 🤖❄️ Snowflake Arctic Chatbot
+# 🤖❄️ Feedback Guard
 I am a passionate developer participating in the Arctic Streamlit Hackathon. Our goal is to leverage the power of Snowflake Arctic and Streamlit to create a novel AI application for analyzing Amazon customer reviews.
 
 
