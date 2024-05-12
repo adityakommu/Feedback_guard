@@ -1,0 +1,8 @@
+streamlit
+replicate
+transformers
+snowflake-snowpark-python
+snowflake-connector-python
+wordcloud
+pillow
+collections
