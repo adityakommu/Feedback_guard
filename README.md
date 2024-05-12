@@ -16,4 +16,5 @@ Amazon Customer Reviews Dataset: We are utilizing the extensive dataset of Amazo
 - Visualization: All visuals in this project have utilized **SNOWFLAKE ARTIC and CORTEX** to generate insightful visualizations. 
 
 **How to run**
-  Streamlit run About_Project.py
+
+-Streamlit run About_Project.py
