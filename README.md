@@ -14,5 +14,6 @@ Amazon Customer Reviews Dataset: We are utilizing the extensive dataset of Amazo
 - Data Preprocessing: We will clean and preprocess the Amazon customer reviews data to ensure accurate analysis and visualization.
 - Sentiment Analysis: We will perform sentiment analysis on the customer reviews to extract key insights and trends. 
 - Visualization: All visuals in this project have utilized **SNOWFLAKE ARTIC and CORTEX** to generate insightful visualizations. 
-** How to run**
+
+**How to run**
   Streamlit run About_Project.py
